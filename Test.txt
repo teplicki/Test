@@ -1,2 +1,3 @@
 Test
+Linijka master
 ..vb.cv.b.c.
