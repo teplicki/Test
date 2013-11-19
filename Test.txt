@@ -1,2 +1,3 @@
 Test
+Linijka w helpie
 ..vb.cv.b.c.
