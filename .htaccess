@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /dl
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . - [L]
