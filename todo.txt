@@ -1,7 +1,9 @@
-LINIJKA-1
 limit pamiêci - ma byæ stosowany do ca³oœci - blocks + addData + blockLight
-linijka3
 wszêdzie gdzie siê da uwzglêdniæ kolory 256 * 16
+
+
+LINIJKA-1
+linijka3
 
 linia dodana na innym kompie
 linijka2
