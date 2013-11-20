@@ -3,4 +3,8 @@ linijka3
 wszêdzie gdzie siê da uwzglêdniæ kolory 256 * 16
 
 linia dodana na innym kompie
+<<<<<<< HEAD
 linijka2
+=======
+linijka1
+>>>>>>> 66d6adbd0701c38814f9698ffdf809333604a007
