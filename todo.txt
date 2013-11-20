@@ -4,4 +4,5 @@ wszêdzie gdzie siê da uwzglêdniæ kolory 256 * 16
 
 linia dodana na innym kompie
 linijka2
+LINIJKA-2
 linijka1
